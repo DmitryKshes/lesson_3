@@ -38,6 +38,7 @@ public class lesson_3_task_2 {
             System.out.println("Array without value: " + Arrays.toString(newArray));
         }
     }
+
 }
 
 
